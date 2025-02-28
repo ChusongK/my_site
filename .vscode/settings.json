@@ -1,4 +1,8 @@
 {
     "python.languageServer": "Pylance",
     "window.zoomLevel": 0.5,
+    "emmet.includeLanguages": {
+        "django-html": "html",
+        "jinja-html": "html"
+    }
 }
